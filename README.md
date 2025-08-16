@@ -17,7 +17,7 @@
 ## 🎯 Skills
 
 - **Design Tools:**  
-  ![Photoshop]([https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=flat-square](https://freepnglogo.com/images/all_img/adobe-photoshop-logo-2528.png))  
+  _Photoshop_  
   _Learning:_ Illustrator, InDesign, After Effects.
 
 - **Design Areas:**  
